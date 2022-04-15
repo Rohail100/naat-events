@@ -1,0 +1,1 @@
+Naat Events Application built with Nextjs
